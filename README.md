@@ -69,6 +69,3 @@ True Λ₀ (lower is better) and share of simulations where each method was best
 - All methods look better in-sample than on the true matrix (optimism of 0.06–0.13 in Λ₀ at p = 20); paper + swap is the most optimistic.
 
 Caveat: conclusions depend on the simulated correlation structures; they should be confirmed on real data.
-# diversified-universe
-# diversified-universe
-# diversified-universe
